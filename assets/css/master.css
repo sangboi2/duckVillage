@@ -1,0 +1,12 @@
+.imgFilter{
+    filter: brightness(0.80);
+}
+html{
+    scroll-behavior: smooth;
+
+}
+/* body{
+    background-color: #fcf8f9;
+    background-color: #fcf8f9; 
+} */
+
